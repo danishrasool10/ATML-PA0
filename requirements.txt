@@ -1,0 +1,5 @@
+torch
+torchvision
+umap-learn
+scikit-learn
+matplotlib
