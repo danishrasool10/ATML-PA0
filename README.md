@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATML PA 0 — Deep Learning Foundations
 
 Programming assignment exploring four core model families in modern computer vision and generative modeling: **ResNet**, **Vision Transformers (ViT)**, **CLIP**, and **Variational Autoencoders (VAE)**.
@@ -125,3 +126,6 @@ jupyter nbconvert --to notebook --execute task3_clip/clip_zeroshot_and_modality_
 - Multi-GPU setups use `nn.DataParallel` where available.
 - A fixed random seed (`42`) is used in several notebooks for reproducibility.
 - Large pretrained weights (ResNet-152, ViT, CLIP) are downloaded on first use and may require a network connection.
+=======
+# ATML-PA0
+>>>>>>> a9f9280c2f917c7d3b0077b69dc650950ca0a7cf

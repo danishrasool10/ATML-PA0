@@ -1,5 +1,6 @@
 torch
 torchvision
+<<<<<<< HEAD
 numpy
 matplotlib
 seaborn
@@ -12,3 +13,8 @@ ftfy
 regex
 tqdm
 git+https://github.com/openai/CLIP.git
+=======
+umap-learn
+scikit-learn
+matplotlib
+>>>>>>> a9f9280c2f917c7d3b0077b69dc650950ca0a7cf
